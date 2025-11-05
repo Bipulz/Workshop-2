@@ -1,0 +1,14 @@
+E:\dotnet-project\Workshop\Workshop-2\Task 1\bin\Debug\net9.0\Task 1.exe
+E:\dotnet-project\Workshop\Workshop-2\Task 1\bin\Debug\net9.0\Task 1.deps.json
+E:\dotnet-project\Workshop\Workshop-2\Task 1\bin\Debug\net9.0\Task 1.runtimeconfig.json
+E:\dotnet-project\Workshop\Workshop-2\Task 1\bin\Debug\net9.0\Task 1.dll
+E:\dotnet-project\Workshop\Workshop-2\Task 1\bin\Debug\net9.0\Task 1.pdb
+E:\dotnet-project\Workshop\Workshop-2\Task 1\obj\Debug\net9.0\Task 1.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotnet-project\Workshop\Workshop-2\Task 1\obj\Debug\net9.0\Task 1.AssemblyInfoInputs.cache
+E:\dotnet-project\Workshop\Workshop-2\Task 1\obj\Debug\net9.0\Task 1.AssemblyInfo.cs
+E:\dotnet-project\Workshop\Workshop-2\Task 1\obj\Debug\net9.0\Task 1.csproj.CoreCompileInputs.cache
+E:\dotnet-project\Workshop\Workshop-2\Task 1\obj\Debug\net9.0\Task 1.dll
+E:\dotnet-project\Workshop\Workshop-2\Task 1\obj\Debug\net9.0\refint\Task 1.dll
+E:\dotnet-project\Workshop\Workshop-2\Task 1\obj\Debug\net9.0\Task 1.pdb
+E:\dotnet-project\Workshop\Workshop-2\Task 1\obj\Debug\net9.0\Task 1.genruntimeconfig.cache
+E:\dotnet-project\Workshop\Workshop-2\Task 1\obj\Debug\net9.0\ref\Task 1.dll
